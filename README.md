@@ -72,10 +72,4 @@ understand:
 
 ---
 
-## 🧮 DAX Measures
 
-### Total Sales
-
-```DAX
-Total Sales =
-SUM(Fact_Sales3[SalesAmount])
