@@ -1,7 +1,7 @@
 
 # 📊 AdventureWorks Business Performance Dashboard
 
-![DashBoard](Screenshots/Dashboard.png)
+![Dashboard Overview](../Screenshots/Dashboard sc.png)
 
 ## Project Documentation
 
