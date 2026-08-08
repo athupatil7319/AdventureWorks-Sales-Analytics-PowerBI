@@ -72,5 +72,7 @@ understand:
 - Regional performance
 
 ---
+## Dashboard
 
+![Dashboard sc](https://github.com/athupatil7319/AdventureWorks-Sales-Analytics-PowerBI/blob/main/Screenshots/Dashboard%20sc.png)
 
