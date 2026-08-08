@@ -94,4 +94,4 @@ Important columns include:
 The dashboard uses a dimensional/star-schema approach to organize
 sales, customer, product, territory, and date information.
 
-![Data Model](Screenshots/Data-model.png)
+
